@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CostReactEstudo/static/css/main.16658b2b.css",
+    "main.js": "/CostReactEstudo/static/js/main.d41aa193.js",
+    "static/media/savings.svg": "/CostReactEstudo/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/CostReactEstudo/index.html",
+    "static/media/loading.svg": "/CostReactEstudo/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.16658b2b.css.map": "/CostReactEstudo/static/css/main.16658b2b.css.map",
+    "main.d41aa193.js.map": "/CostReactEstudo/static/js/main.d41aa193.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16658b2b.css",
+    "static/js/main.d41aa193.js"
+  ]
+}
