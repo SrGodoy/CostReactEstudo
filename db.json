@@ -1,0 +1,96 @@
+{
+  "projects": [
+    {
+      "budget": "1300",
+      "name": "Projeto Atualizado",
+      "caategory": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Luccas",
+      "budget": "7000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 2200,
+      "services": [
+        {
+          "name": "Meu novo serviço",
+          "cost": "100",
+          "description": "faça isso aqui",
+          "id": "1462ebbb-85a4-4732-809a-1f18f3820245"
+        },
+        {
+          "name": "Meu novo serviço",
+          "cost": "100",
+          "description": "faça isso aqui",
+          "id": "1462ebbb-85a4-4732-809a-1f18f3820245"
+        },
+        {
+          "name": "Novo projeto teste",
+          "cost": "2000",
+          "description": "um projeto teste para verificar o route v6",
+          "id": "86fc82c7-f72e-4d8b-bd61-bb890e9f7e9f"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Mathues",
+      "budget": "1200",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 15
+    },
+    {
+      "name": "teste 3",
+      "budget": "100000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 10000,
+      "services": [
+        {
+          "name": "apenas um livro",
+          "cost": "10000",
+          "description": "livro sobre cozinhar miojo",
+          "id": "f16c3010-2357-474b-9d41-b4998de99308"
+        }
+      ],
+      "id": 16
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
